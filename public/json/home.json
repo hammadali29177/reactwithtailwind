@@ -1,0 +1,132 @@
+{
+    "heroectionData": {
+        "title": "Modern Interior Design Studio",
+        "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.",
+        "sofaImage": "sofa",
+        "dotImage": "dot",
+        "shopeBtn": {
+            "text": "Shope Now",
+            "link": "/"
+        },
+        "exploreBtn": {
+            "text": "Explore",
+            "link": "/"
+        }
+    },
+    "excellentMaterial": {
+        "title": "Crafted with excellent material.",
+        "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.",
+        "craftedProducts": [
+            {
+                "image": "chairAndPillow",
+                "name": "Nordic Chair",
+                "price": "$50.00"
+            },
+            {
+                "image": "oliveBackChairWithPillow",
+                "name": "Kruzo Aero Chair",
+                "price": "$78.00"
+            },
+            {
+                "image": "woodenAccentChair",
+                "name": "Ergonomic Chair",
+                "price": "$50.00"
+            }
+        ],
+        "addToCardIcon": "icon",
+        "exploreBtn": {
+            "text": "Explore",
+            "link": "/"
+        }
+    },
+    "chooseUs": {
+        "title": "Why Choose Us",
+        "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.",
+        "whyChooseUsImage": "whyChooseUs",
+        "dotImage": "dot",
+        "chooseUsDettail": [
+            {
+                "icon": "shipping",
+                "title": "Fast & Free Shipping",
+                "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate."
+            },
+            {
+                "icon": "shop",
+                "title": "Easy to Shop",
+                "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate."
+            },
+            {
+                "icon": "support",
+                "title": "24/7 Support",
+                "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate."
+            },
+            {
+                "icon": "return",
+                "title": "Hassle Free Returns",
+                "description": "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate."
+            }
+        ]
+    },
+    "interiorDesign": {
+        "title": "We Help You Make Modern Interior Design",
+        "description": "Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+        "dotImage": "dot",
+        "floorsofaImage": "floorsofa",
+        "whiteBenchImage": "whiteBench",
+        "blueChairImage": "blueChair",
+        "bulletPoints": [
+            "Donec vitae odio quis nisl dapibus malesuada",
+            "Donec vitae odio quis nisl dapibus malesuada",
+            "Donec vitae odio quis nisl dapibus malesuada",
+            "Donec vitae odio quis nisl dapibus malesuada"
+        ],
+        "exploreBtn": {
+            "text": "Explore",
+            "link": "/"
+        }
+    },
+    "readMore": {
+        "linkText": "Read More",
+        "options": [
+            {
+                "image": "NordicChair",
+                "title": "Nordic Chair",
+                "description": "Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio",
+                "link": "/"
+            },
+            {
+                "image": "Kruzo",
+                "title": "Kruzo Aero Chair",
+                "description": "Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio",
+                "link": "/"
+            },
+            {
+                "image": "Ergonomic",
+                "title": "Ergonomic Chair",
+                "description": "Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio",
+                "link": "/"
+            }
+        ]
+    },
+    "blog": {
+        "title": "Recent Blog",
+        "linkText": "View All Posts",
+        "blogCard": [
+            {
+                "image": "doubleChair",
+                "title": "First Time Home Owner Ideas",
+                "thumbnil": "by Kristin Watson on Dec 19, 2021"
+            },
+            {
+                "image": "chairWithSofa",
+                "title": "How To Keep Your Furniture Clean",
+                "thumbnil": "by Robert Fox on Dec 15, 2021"
+            },
+            {
+                "image": "twoslice",
+                "title": "Small Space Furniture Apartment Ideas",
+                "thumbnil": "by Kristin Watson on Dec 12, 2021"
+            }
+        ]
+    }
+}

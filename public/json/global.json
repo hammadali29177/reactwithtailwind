@@ -1,0 +1,138 @@
+{
+    "testimonials": {
+        "title": "Testimonials",
+        "feedbacks": [
+            {
+                "description": "“Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.”",
+                "image": "testimonialImage",
+                "name": "Maria Jones",
+                "designation": "CEO, Co-Founder, XYZ Inc."
+            }
+        ]
+    },
+    "header": {
+        "title": "Furni",
+        "headerOptions": [
+            {
+                "text": "Home",
+                "link": "/"
+            },
+            {
+                "text": "Shop",
+                "link": "/"
+            },
+            {
+                "text": "About us",
+                "link": "/"
+            },
+            {
+                "text": "Services",
+                "link": "/"
+            },
+            {
+                "text": "Blog",
+                "link": "/"
+            },
+            {
+                "text": "Contact us",
+                "link": "/"
+            }
+        ],
+        "userIcon": "icon",
+        "cartIcon": "icon"
+    },
+    "footer": {
+        "image": "footerImagesofa",
+        "messageIcon": "envelopeOutline-icon",
+        "newsletterText": "Subscribe to Newsletter",
+        "title": "Furni.",
+        "description": "Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant",
+        "footerOptionsLink": [
+            {
+                "text": "About us",
+                "link": "/"
+            },
+            {
+                "text": "Services",
+                "link": "/"
+            },
+            {
+                "text": "Blog",
+                "link": "/"
+            },
+            {
+                "text": "Contact us",
+                "link": "/"
+            },
+            {
+                "text": "Support",
+                "link": "/"
+            },
+            {
+                "text": "Knowledge base",
+                "link": "/"
+            },
+            {
+                "text": "Live chat",
+                "link": "/"
+            }
+        ],
+        "footerServicesLink": [
+            {
+                "text": "Jobs",
+                "link": "/"
+            },
+            {
+                "text": "Our team",
+                "link": "/"
+            },
+            {
+                "text": "Leadership",
+                "link": "/"
+            },
+            {
+                "text": "Privacy Policy",
+                "link": "/"
+            },
+            {
+                "text": "Nordic Chair",
+                "link": "/"
+            },
+            {
+                "text": "Services",
+                "link": "/"
+            },
+            {
+                "text": "Knowledge base",
+                "link": "/"
+            },
+            {
+                "text": "Kruzo Aero",
+                "link": "/"
+            },
+            {
+                "text": "Blog",
+                "link": "/"
+            },
+            {
+                "text": "Ergonomic Chair",
+                "link": "/"
+            },
+            {
+                "text": "Contact us",
+                "link": "/"
+            }
+        ],
+        "copyright": "Copyright ©2024. All Rights Reserved.",
+        "copyrightLink": [
+            {
+                "text": "Terms & Conditions",
+                "link": "/"
+            },
+            {
+                "text": "Privacy Policy",
+                "link": "/"
+            }
+        ]
+    }
+}
